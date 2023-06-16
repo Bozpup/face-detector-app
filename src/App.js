@@ -12,6 +12,7 @@ import Register from "./Components/Register/Register";
 // const app = new Clarifai.App({
 //   apiKey: "75340278b7ef4f5e8a66f6abf7ae3f3as",
 // });
+
 const MODEL_ID = "face-detection";
 // const MODEL_VERSION_ID = "aa7f35c01e0642fda5cf400f543e7c40";
 const returnClarifaiRequestOptions = (imageUrl) => {
